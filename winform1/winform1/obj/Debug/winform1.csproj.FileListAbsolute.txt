@@ -1,0 +1,9 @@
+G:\这学期的课\C#\winfrom学习\winform1\winform1\bin\Debug\winform1.exe.config
+G:\这学期的课\C#\winfrom学习\winform1\winform1\bin\Debug\winform1.exe
+G:\这学期的课\C#\winfrom学习\winform1\winform1\bin\Debug\winform1.pdb
+G:\这学期的课\C#\winfrom学习\winform1\winform1\obj\Debug\winform1.csprojResolveAssemblyReference.cache
+G:\这学期的课\C#\winfrom学习\winform1\winform1\obj\Debug\winform1.Form1.resources
+G:\这学期的课\C#\winfrom学习\winform1\winform1\obj\Debug\winform1.Properties.Resources.resources
+G:\这学期的课\C#\winfrom学习\winform1\winform1\obj\Debug\winform1.csproj.GenerateResource.Cache
+G:\这学期的课\C#\winfrom学习\winform1\winform1\obj\Debug\winform1.exe
+G:\这学期的课\C#\winfrom学习\winform1\winform1\obj\Debug\winform1.pdb
